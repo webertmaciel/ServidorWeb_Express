@@ -1,0 +1,23 @@
+{
+  "name": "servidorweb_express",
+  "version": "1.0.0",
+  "description": "Criando um exemplo de servidor Web com o framework express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webertmaciel/ServidorWeb_Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webertmaciel/ServidorWeb_Express/issues"
+  },
+  "homepage": "https://github.com/webertmaciel/ServidorWeb_Express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
